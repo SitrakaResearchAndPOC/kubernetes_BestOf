@@ -5,6 +5,6 @@
 * readme
 [khg_code]()
 
-## KurstyHack
+## KurstyHack_fr
 * Official
-[krustyhack_fr](https://www.youtube.com/@KrustyHack)
+[krustyhack](https://www.youtube.com/@KrustyHack)
