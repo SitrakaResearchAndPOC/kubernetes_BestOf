@@ -11,6 +11,7 @@
 
 ## mohamedyoussfi_fr
 * official
+</br>
 [mohamedyoussfi_part1](https://www.youtube.com/watch?v=QUzktpcjKCM&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=11&pp=iAQB) </br>
 [mohamedyoussfi_part2](https://www.youtube.com/watch?v=0XCk4ea856E&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=12&pp=iAQB0gcJCa0JAYcqIYzv) </br>
 [mohamedyoussfi_part3](https://www.youtube.com/watch?v=0jK-br9DVC8&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=13&pp=iAQB)
@@ -26,7 +27,7 @@
 
 ## technana
 * official
-[technana1](https://www.youtube.com/watch?v=X48VuDVv0do&t=2433s&pp=ygUWdGVjaG5hbmEgKyBrdWJlcmVuZXRlcw%3D%3D)
+[technana1](https://www.youtube.com/watch?v=X48VuDVv0do&t=2433s&pp=ygUWdGVjaG5hbmEgKyBrdWJlcmVuZXRlcw%3D%3D) </br>
 [technana2](https://www.youtube.com/watch?v=s_o8dwzRlu4&t=104s&pp=ygUWdGVjaG5hbmEgKyBrdWJlcmVuZXRlcw%3D%3D)
 
 ## abishervarmella
@@ -39,7 +40,7 @@
 
 ## freecodecamp 
 * official
-[freecodecamp](https://www.youtube.com/watch?v=kTp5xUtcalw&t=23s)
+[freecodecamp](https://www.youtube.com/watch?v=kTp5xUtcalw&t=23s) </br>
 [freecodecamp2](https://www.youtube.com/watch?v=Wf2eSG3owoA&pp=ygUKa3ViZXJuZXRlc9IHCQmtCQGHKiGM7w%3D%3D)
 
 ## kubesimplify
