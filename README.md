@@ -15,9 +15,11 @@
 [mohamedyoussfi_part2](https://www.youtube.com/watch?v=0XCk4ea856E&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=12&pp=iAQB0gcJCa0JAYcqIYzv) </br>
 [mohamedyoussfi_part3](https://www.youtube.com/watch?v=0jK-br9DVC8&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=13&pp=iAQB)
 </br>
-## himaya_fr 
+
+## hymaia_fr 
 * official
 [kubernetes_pour_dev](https://www.youtube.com/watch?v=wzH0qIq1sjQ&t=249s&pp=ygURaGltYXlhIGt1YmVybmV0ZXPSBwkJrQkBhyohjO8%3D)
+
 # Beginning more theory
 ## kodeloud
 [kodeloud](https://www.youtube.com/watch?v=XuSQU5Grv1g)
@@ -56,7 +58,8 @@
 * official
 [networkchuck](https://www.youtube.com/watch?v=7bA0gTroJjw&t=39s&pp=ygUZa3ViZXJuZXRlcyArIG5ldHdvcmtjaHVjaw%3D%3D) </br>
 [networkchuck_more_cluster](https://www.youtube.com/watch?v=X9fSMGkjtug&t=232s&pp=ygUZa3ViZXJuZXRlcyArIG5ldHdvcmtjaHVja9IHCQmtCQGHKiGM7w%3D%3D)
-
+* readme
+[kubernetes_kubectl](https://github.com/SitrakaResearchAndPOC/kubectl_networkchuk/edit/main/readme.md)
 * readme
 ## devopsdirective (more ops)
 [devopsdirective](https://www.youtube.com/watch?v=2T86xAtR6Fo&t=3095s)
