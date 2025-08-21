@@ -9,7 +9,15 @@
 * Official
 [krustyhack](https://www.youtube.com/playlist?list=PLd-VH3tQkoBcTPPPjnnSyAHdyupbMe96w)
 
+## mohamedyoussfi_fr
+* official
+[mohamedyoussfi_part1](https://www.youtube.com/watch?v=QUzktpcjKCM&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=11&pp=iAQB)
+[mohamedyoussfi_part2](https://www.youtube.com/watch?v=0XCk4ea856E&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=12&pp=iAQB0gcJCa0JAYcqIYzv)
+[mohamedyoussfi_part3](https://www.youtube.com/watch?v=0jK-br9DVC8&list=PLYXcqIV23kPnVvMDw1sGYzSBZW1RfDgkZ&index=13&pp=iAQB)
 
+## himaya_fr 
+* official
+[kubernetes_pour_dev](https://www.youtube.com/watch?v=wzH0qIq1sjQ&t=249s&pp=ygURaGltYXlhIGt1YmVybmV0ZXPSBwkJrQkBhyohjO8%3D)
 # Beginning more theory
 ## kodeloud
 [kodeloud](https://www.youtube.com/watch?v=XuSQU5Grv1g)
